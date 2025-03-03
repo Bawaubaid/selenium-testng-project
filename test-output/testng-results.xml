@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-23T22:14:52 IST" name="Suite" finished-at="2025-02-23T22:15:10 IST" duration-ms="17362">
+  <suite started-at="2025-03-02T23:27:10 IST" name="Default suite" finished-at="2025-03-02T23:27:36 IST" duration-ms="25492">
     <groups>
     </groups>
-    <test started-at="2025-02-23T22:14:52 IST" name="Test" finished-at="2025-02-23T22:15:10 IST" duration-ms="17362">
+    <test started-at="2025-03-02T23:27:10 IST" name="Default test" finished-at="2025-03-02T23:27:36 IST" duration-ms="25492">
       <class name="webApplicationTests.SubmitOrder">
-        <test-method signature="submitOrderTest()[pri:0, instance:webApplicationTests.SubmitOrder@397fbdb]" started-at="2025-02-23T22:14:52 IST" name="submitOrderTest" finished-at="2025-02-23T22:15:10 IST" duration-ms="17309" status="PASS">
+        <test-method signature="submitOrderTest()[pri:0, instance:webApplicationTests.SubmitOrder@397fbdb]" started-at="2025-03-02T23:27:10 IST" name="submitOrderTest" finished-at="2025-03-02T23:27:36 IST" duration-ms="25421" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitOrderTest -->
       </class> <!-- webApplicationTests.SubmitOrder -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

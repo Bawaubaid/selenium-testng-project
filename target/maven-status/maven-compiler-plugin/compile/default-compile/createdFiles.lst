@@ -1,0 +1,6 @@
+webApplication\PageObjects\CheckOutPage.class
+webApplication\PageObjects\CartPage.class
+webApplication\PageObjects\LoginPage.class
+webApplication\PageObjects\ProductCatalogue.class
+webApplication\abstractComponents\AbstractComponent.class
+webApplication\PageObjects\ConfirmationPage.class
